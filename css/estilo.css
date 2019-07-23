@@ -23,7 +23,7 @@
 }
 
 body {
-    background: url(imagens/medico2.jpeg);
+    background: url(../imagens/medico2.jpeg);
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed;
